@@ -1,4 +1,4 @@
-path: pet_tumor_dataset
+path: /content/Brain_Tumor_Detection_Using_YOLO/pet_tumor_dataset
 train: images/train
 val: images/val
 test: images/test
